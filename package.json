@@ -1,0 +1,11 @@
+{
+  "name": "learnyounode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@gitlab.com:Inclushe/learnyounode-answers.git",
+  "author": "Ethan <inclushe@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bl": "^1.2.0"
+  }
+}
